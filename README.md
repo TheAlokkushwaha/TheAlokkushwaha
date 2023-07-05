@@ -3,7 +3,7 @@
 <h3 align="center">Unity AR/VR Developer</h3>
 
 ## 👨🏻‍💻 About Me :
-<img align="right" alt="coding"  height="350" width="345" src="https://github.com/TheAlokkushwaha/TheAlokkushwaha/blob/main/coding.gif"> 
+<img align="right" alt="coding"  height="340" width="345" src="https://github.com/TheAlokkushwaha/TheAlokkushwaha/blob/main/coding.gif"> 
 
 - 🎓 I’m currently studying **Computer Science**
 
@@ -36,6 +36,10 @@
 <a href="https://github.com/thealokkushwaha/github-readme-stats"><img alt="Alok's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thealokkushwaha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 
+## ❤ Views and Followers :
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=thealokkushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="thealokkushwaha" /> </a>
+<a href="https://github.com/thealokkushwaha?tab=followers"><img src="https://img.shields.io/github/followers/thealokkushwaha?label=Followers&style=social" alt="GitHub Badge"></a>
+
 ## 🤝 Connect with me :
 <p align="left">
 <a href="https://twitter.com/thealokkushwah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thealokkushwah" height="30" width="40" /></a>
@@ -44,6 +48,3 @@
 <a href="https://www.youtube.com/c/theares23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="theares23" height="30" width="40" /></a>
 </p>
 
-## ❤ Views and Followers :
-<a align="left"> <img src="https://komarev.com/ghpvc/?username=thealokkushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="thealokkushwaha" /> </a>
-<a href="https://github.com/thealokkushwaha?tab=followers"><img src="https://img.shields.io/github/followers/thealokkushwaha?label=Followers&style=social" alt="GitHub Badge"></a>
