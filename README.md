@@ -26,7 +26,7 @@
 
 ## 📊 My Github Stats
 
-<img src="./Game.png" align="right" width="350" height="350" />
+<img src="./Game.png" align="right" width="350" height="300" />
 
 <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thealokkushwaha&show_icons=true&count_private=true&theme=light" width="350"></a>
