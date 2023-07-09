@@ -3,7 +3,7 @@
 <h3 align="center">Unity AR/VR Developer</h3>
 
 ## 👨🏻‍💻 About Me :
-<img align="right" alt="coding"  height="337" width="345" src="https://github.com/TheAlokkushwaha/TheAlokkushwaha/blob/main/coding.gif"> 
+<img align="right" alt="coding"  height="280" width="290" src="https://github.com/TheAlokkushwaha/TheAlokkushwaha/blob/main/coding.gif"> 
 
 - 🎓 I’m currently studying **Computer Science**
 
