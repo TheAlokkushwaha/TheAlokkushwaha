@@ -35,7 +35,7 @@
   <a herf="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealokkushwaha" width="350"></a>
 </p>
 <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thealokkushwaha&" alt="updesh126" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thealokkushwaha&" alt="thealokkushwaha" />
 </p>
 
 ## ❤ Views and Followers :
