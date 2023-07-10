@@ -29,13 +29,14 @@
 <img src="./Game.png" align="right" width="350" height="300" />
 
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thealokkushwaha&show_icons=true&count_private=true&theme=light" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thealokkushwaha&show_icons=true&locale=en" alt="thealokkushwaha" width="350" /></a>
 </p>
 <p>
-  <a herf="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealokkushwaha" width="350"></a>
+  <a> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thealokkushwaha&show_icons=true&locale=en&layout=compact" alt="thealokkushwaha" width="350" /> </a>
 </p>
+
 <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thealokkushwaha&" alt="thealokkushwaha" />
+    <a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=thealokkushwaha&" alt="thealokkushwaha" /> </a>
 </p>
 
 ## ❤ Views and Followers :
