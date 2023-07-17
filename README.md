@@ -1,6 +1,6 @@
 <h2 align="center"><img src = "https://github.com/TheAlokkushwaha/TheAlokkushwaha/blob/main/Banner.png"/></h2>
 <h1 align="center">Hello 👋, I'm Alok Kushwaha</h1>
-<h3 align="center">Unity AR/VR Developer</h3>
+<h3 align="center">Unity, AR/VR Developer</h3>
 
 ## 👨🏻‍💻 About Me :
 <img align="right" alt="coding"  height="280" width="290" src="https://github.com/TheAlokkushwaha/TheAlokkushwaha/blob/main/coding.gif"> 
