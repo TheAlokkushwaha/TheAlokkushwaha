@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Ar/Vr, Unity3D**
 
-- 👨‍💻 All of my projects are available at [alokkushwaha.me](alokkushwaha.me)
+- 👨‍💻 All of my projects are available at **[alokkushwaha.me](alokkushwaha.me)**
 
 - 📫 How to reach me **engr.alokkushwaha@gmail.com**
 
